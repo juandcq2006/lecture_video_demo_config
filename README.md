@@ -1,2 +1,4 @@
-# lecture_video_demo_config
-repo created as a demo
+#Leacture Demo
+I created this for the demo 
+#Additional Content
+I think is very cool
